@@ -1,0 +1,30 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Pensamento 1",
+      "autoria": "Dev",
+      "modelo": "modelo 1",
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "conteudo": "Pensamento 2",
+      "autoria": "Dev",
+      "modelo": "modelo 2",
+      "favorito": false
+    },
+    {
+      "conteudo": "Teste 2",
+      "autoria": "testando",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "testand outro",
+      "autoria": "testando outro2",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}
